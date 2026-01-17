@@ -1,0 +1,51 @@
+CreateMarker 149 -125 152
+CreateMarker 176 32 152
+CreateMarker 93 160 152
+CreateMarker -113 132 152
+CreateMarker -166 2 152
+CreateMarker -109 -120 152
+SetZone 1 1
+SetZone 2 2
+SetZone 3 1
+SetZone 4 2
+SetZone 5 1
+SetZone 6 2
+SetZone 7 2
+SetZone 8 1
+SetZone 9 1
+SetZone 10 1
+SetZone 11 1
+SetZone 12 1
+SetZone 13 1
+SetMarkerPath 1 0 8
+SetMarkerPath 1 1 5
+SetMarkerPath 1 2 13
+SetMarkerPath 1 3 12
+SetMarkerPath 1 4 11
+SetMarkerPath 1 5 3
+SetMarkerPath 1 6 10
+SetMarkerPath 1 7 9
+SetMarkerPath 3 0 11
+SetMarkerPath 3 1 10
+SetMarkerPath 3 2 1
+SetMarkerPath 5 0 8
+SetMarkerPath 5 1 13
+SetMarkerPath 5 2 1
+SetMarkerPath 8 0 5
+SetMarkerPath 8 1 9
+SetMarkerPath 8 2 1
+SetMarkerPath 9 0 10
+SetMarkerPath 9 1 8
+SetMarkerPath 9 2 1
+SetMarkerPath 10 0 3
+SetMarkerPath 10 1 9
+SetMarkerPath 10 2 1
+SetMarkerPath 11 0 12
+SetMarkerPath 11 1 3
+SetMarkerPath 11 2 1
+SetMarkerPath 12 0 13
+SetMarkerPath 12 1 11
+SetMarkerPath 12 2 1
+SetMarkerPath 13 0 5
+SetMarkerPath 13 1 12
+SetMarkerPath 13 2 1
